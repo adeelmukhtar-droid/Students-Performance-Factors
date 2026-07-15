@@ -7,6 +7,16 @@ This project predicts students' exam performance using Machine Learning techniqu
 The project was developed using Python in Google Colab with the Student Performance Factors dataset from Kaggle.
 
 ---
+## 📌 Project Structure
+
+Student-Performance-Prediction/
+│
+├── Student_Performance_Prediction.ipynb
+├── README.md
+├── requirements.txt
+├└──  LICENSE
+
+---
 
 ## 📊 Dataset
 
