@@ -104,7 +104,12 @@ Linear Regression achieved the highest R² score and was selected as the best-pe
 
 Artificial Intelligence Student
 
-Pakistan
+The Islamia University of Bahawalpur
+
+---
+
+Follow on GitHub
+https://github.com/adeelmukhtar-droid
 
 ---
 
